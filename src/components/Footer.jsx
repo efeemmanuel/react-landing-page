@@ -1,4 +1,4 @@
-import { resourcesLinks,platformLinks, communityLinks } fro "../constants";
+import { resourcesLinks,platformLinks, communityLinks } from "../constants";
 
 
 export default function Footer(){
